@@ -9,6 +9,7 @@ $ cd DenseDepth
 $ wget https://s3-eu-west-1.amazonaws.com/densedepth/nyu.h5 #download NYU model
 $ wget https://s3-eu-west-1.amazonaws.com/densedepth/kitti.h5 #download Kitti model
 ## to run, defaults to NYU model and example images ##
+### cropped and resized forest images are in DenseDepth/tree_pngs ###
 $ python test.py --model [nyu.h5/kitti.h5] --input [INPUT]
 
 ## to crop/resize ##
