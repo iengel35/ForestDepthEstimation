@@ -2,6 +2,7 @@
 ### Izy Engel for EN 250 final project, in collaboration with Professor Nikolai Strigul.  Using model provided by https://github.com/ialhashim/DenseDepth.git ###
 
 Test and Forest output graphs can be found in DenseDepth/results.
+![](DenseDepth/results/tree_test_nyu.png)
 
 # Steps to reproduce 
 
